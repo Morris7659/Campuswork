@@ -1,2 +1,2 @@
-# Schoolwork
+# Campuswork
 Assignments
